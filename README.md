@@ -72,8 +72,7 @@ Built with a clean, minimal, and futuristic UI using **pure HTML, CSS, and JavaS
 | Name               | Reg No.  | LinkedIn                                                                     |
 | ------------------ | -------- | ---------------------------------------------------------------------------- |
 | Ayush Kumar        | 12321643 | [Ayush Kumar](https://www.linkedin.com/in/ayushkr05/)                           |
-| Annada Chakravarty | 12319336 | [Annada Chakravarty](https://www.linkedin.com/in/annada-chakravarty-445bbb217/) |
-| Abhay Kumar Gupta  | 12322493 | Abhay                                                                        |
+| Rishabh Pandey     | 12304494 | [Rishabh Pandey](https://www.linkedin.com/in/rishabh-pandey-78r0/) |
 
 ---
 
